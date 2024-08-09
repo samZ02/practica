@@ -1,0 +1,10 @@
+body{
+    color: pink;
+    justify-content: center;
+    display: flexbox;
+}
+img{
+   width: 200px;
+   display: flex;
+   justify-content: center;
+}
